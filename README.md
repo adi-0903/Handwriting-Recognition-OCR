@@ -22,7 +22,7 @@ The TrOCR directory contains several .py files and a configuration file. To run 
 1. Download the TrOCR directory 
 2. Install the requirements.txt file. 
 3. If desired, change the settings of the training through the confing.json file. 
-4. ****************Run the 'train.py'. The model will be saved to a file called 'saved_model' in the directory to which you downloaded the TrOCR directory.
+4. Run the 'train.py'. The model will be saved to a file called 'saved_model' in the directory to which you downloaded the TrOCR directory.
 5. Run the 'predict.py' file either from the terminal, calling the 'predict' function and enter the file path to an image you would like to convert to machine-readable format.
 
 
